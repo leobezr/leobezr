@@ -7,9 +7,8 @@ I'm Leo Bezerra,</h3>
 Currently, I live in Brazil and work at Fintask, a financial startup.
 
 <h2>🛡 My Development Toolbelt 🏹</h2>
-<img src="assets/html.svg" width="30" height="30" /> <img src="assets/css-3.svg" width="30" height="30" /> <img src="assets/javascript.svg" width="30" height="30" />
-<img src="assets/vue.svg" width="30" height="30" /> <img src="assets/react.svg" width="30" height="30" /> <img src="assets/sass.svg" width="30" height="30" />
-<img src="assets/node.svg" width="30" height="30" /> <img src="assets/mongodb.svg" width="30" height="30" /> <img src="assets/git.svg" width="30" height="30" />
+<p style="display: inline-block;">
+<img src="assets/html.svg" width="30" height="30" /><img src="assets/css-3.svg" width="30" height="30" /><img src="assets/javascript.svg" width="30" height="30" /><img src="assets/vue.svg" width="30" height="30" /><img src="assets/react.svg" width="30" height="30" /><img src="assets/sass.svg" width="30" height="30" /><img src="assets/node.svg" width="30" height="30" /><img src="assets/mongodb.svg" width="30" height="30" /><img src="assets/git.svg" width="30" height="30" /></p>
 
 
  NodeJS     title=    Flutter    VS Code    Git    Google Chrome
