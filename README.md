@@ -1,5 +1,7 @@
-👋  Heey!
-I'm Leo Bezerra,
+<img src="./assets/bezrbanner.jpg"/>
+
+<h1>👋  Heey!<br/>
+I'm Leo Bezerra,</h1>
 
 Currently, I live in Brazil and work at Fintask, a financial startup.
 
