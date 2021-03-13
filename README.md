@@ -31,8 +31,8 @@ Currently, I live in Brazil and work at Fintask, a financial startup.
 * Become web designer `@done`
 * Study design and trends `@done`
 * Learn Javascript `@done`
-* Get a job with SPA frameworks `@done`
+* Develop using SPA frameworks `@done`
 * Build an online game `@done`
 * Learn backend development `@done`
-* Create open source library
+* Create an open source library
 * Travel to Canada
