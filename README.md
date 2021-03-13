@@ -27,14 +27,12 @@ Currently, I live in Brazil and work at Fintask, a financial startup.
    You can find some of my latest projects here.
 </p>
 
-<h2>Todos</h2>
-<ul>
-   <li>Become web designer `@done`</li>
-   <li>Study design and trends `@done`</li>
-   <li>Learn Javascript `@done`</li>
-   <li>Get a job with SPA frameworks `@done`</li>
-   <li>Build an online game `@done`</li>
-   <li>Learn backend development `@done`</li>
-   <li>Create open source library</li>
-   <li>Travel the world</li>
-</ul>
+## My Todos##
+* Become web designer `@done`
+* Study design and trends `@done`
+* Learn Javascript `@done`
+* Get a job with SPA frameworks `@done`
+* Build an online game `@done`
+* Learn backend development `@done`
+* Create open source library
+* Travel to Canada
