@@ -1,13 +1,15 @@
 <img src="./assets/bezrbanner.jpg"/>
 
-<h1>👋  Heey!<br/>
-I'm Leo Bezerra,</h1>
+<h1>LeoBezr</h1>
 
+<h3>👋  Heey!<br/>
+I'm Leo Bezerra,</h3>
 Currently, I live in Brazil and work at Fintask, a financial startup.
 
-⚒ My Development Toolbelt
-
+<h2>🛡 My Development Toolbelt 🏹</h2>
 <img src="assets/html.svg" width="30" height="30" /> <img src="assets/css-3.svg" width="30" height="30" /> <img src="assets/javascript.svg" width="30" height="30" />
+<img src="assets/vue.svg" width="30" height="30" /> <img src="assets/react.svg" width="30" height="30" /> <img src="assets/sass.svg" width="30" height="30" />
+<img src="assets/node.svg" width="30" height="30" /> <img src="assets/mongodb.svg" width="30" height="30" /> <img src="assets/git.svg" width="30" height="30" />
 
 
  NodeJS     title=    Flutter    VS Code    Git    Google Chrome
