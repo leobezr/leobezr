@@ -23,6 +23,6 @@ Currently, I live in Brazil and work at Fintask, a financial startup.
    A RPG browser game, developed in NodeJs and VueJS using Canvas and WebSockets.
 </p>
 <p>
-   <strong>⚔ <a href="http://leobezr.com.br/" target="_blank" rel="nofollow">Portfolio</a></strong><br>
+   <strong>📝 <a href="http://leobezr.com.br/" target="_blank" rel="nofollow">Portfolio</a></strong><br>
    You can find some of my latest projects here.
 </p>
