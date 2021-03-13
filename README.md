@@ -17,6 +17,6 @@ Currently, I live in Brazil and work at Fintask, a financial startup.
 
 <h3>👨‍💻 My Personal Project</h3>
 <p>
-   <strong>[Knights RPG](https://knights-rpg.com.br/#/)</strong>
+   <strong><a href="https://knights-rpg.com.br/#/" target="_blank" rel="nofollow">Knights RPG</strong>
 </p>
 <p>A RPG browser game, developed in NodeJs and VueJS using Canvas and WebSockets.</p>
