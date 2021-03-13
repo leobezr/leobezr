@@ -2,8 +2,10 @@
 
 <h1>LeoBezr</h1>
 
-<h3>👋 Heey!<br />
-   I'm Leo Bezerra,</h3>
+<p>
+   <strong>👋 Heey!<br />
+      I'm Leo Bezerra,</strong>
+</p>
 Currently, I live in Brazil and work at Fintask, a financial startup.
 
 <h3>🛡 My Development Toolbelt 🏹</h3>
@@ -17,6 +19,6 @@ Currently, I live in Brazil and work at Fintask, a financial startup.
 
 <h3>👨‍💻 My Personal Project</h3>
 <p>
-   <strong><a href="https://knights-rpg.com.br/#/" target="_blank" rel="nofollow">Knights RPG</strong>
+   <strong>⚔ <a href="https://knights-rpg.com.br/#/" target="_blank" rel="nofollow">Knights RPG</a></strong><br>
+   A RPG browser game, developed in NodeJs and VueJS using Canvas and WebSockets.
 </p>
-<p>A RPG browser game, developed in NodeJs and VueJS using Canvas and WebSockets.</p>
