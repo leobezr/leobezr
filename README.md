@@ -5,7 +5,7 @@ Currently, I live in Brazil and work at Fintask, a financial startup.
 
 ⚒ My Development Toolbelt
 
-![](assets/html.svg) ![](assets/css-3.svg) ![](assets/javascript.svg) NodeJS     title=    Flutter    VS Code    Git    Google Chrome
+<img src="assets/html.svg" width="200" height="200" /> ![](assets/css-3.svg) ![](assets/javascript.svg) NodeJS     title=    Flutter    VS Code    Git    Google Chrome
 
 
 👨‍💻   My Personal Projects
