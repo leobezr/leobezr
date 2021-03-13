@@ -8,7 +8,7 @@
 </p>
 Currently, I live in Brazil and work at Fintask, a financial startup.
 
-<h3>🛡 My Development Toolbelt 🏹</h3>
+<h3>🧙 My Development Toolbelt</h3>
 <p><img src="assets/html.svg" width="25" height="25" /> <img src="assets/css-3.svg" width="25" height="25" /> <img
       src="assets/javascript.svg" width="25" height="25" /> <img src="assets/vue.svg" width="25" height="25" /> <img
       src="assets/react.svg" width="25" height="25" /> <img src="assets/sass.svg" width="25" height="25" /> <img
