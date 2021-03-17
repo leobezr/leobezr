@@ -42,7 +42,7 @@ Currently, I live in Brazil and work at Fintask, a financial startup.
 
 <p>Some frontend developers believe that tests are irrelevant and a waste of time, I assure you, I’m not one of them. I believe in testing my code to scale my project using tools like Jest with TDD approach.</p>
 
-<p>With **5 years of experience** in web development, some of my biggest achievements are:</p>
+<p>With <strong>5 years of experience</strong> in web development, some of my biggest achievements are:</p>
 <ul>
    <li>Scaling a startup platform to a valuation increase of 900%;</li>
    <li>Building a white-label platform from scratch;</li>
