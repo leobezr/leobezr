@@ -49,7 +49,7 @@ Currently, I live in Brazil and work at Fintask, a financial startup.
    <li>The solo full stack development of my game Knights RPG using tools like Vue, Node, Web Sockets, HTML5 Canvas and NoSQL database like MongoDB.</li>
 </ul>
 
-<p>As someone who lives and breathes javascript, currently working with **Vue.js**, and some side projects on React.js and Node.js, I wouldn’t be afraid to start a new framework if needed like Nuxt or React Native.</p>
+<p>As someone who lives and breathes javascript, currently working with <strong>Vue.js</strong>, and some side projects on React.js and Node.js, I wouldn’t be afraid to start a new framework if needed like Nuxt or React Native.</p>
 
-<p>Currently in pursuit to gain more experience as a full stack engineer and continue my knowledge as a front-end developer to eventually become an Engineering Team Leader.</p>
+<p>Currently in pursuit to gain more experience as a full stack engineer and continue my knowledge as a frontend developer to eventually become a Tech Lead.</p>
 
