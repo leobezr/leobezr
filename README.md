@@ -27,7 +27,7 @@ Currently, I live in Brazil and work at Fintask, a financial startup.
    You can find some of my latest projects here.
 </p>
 
-## My Todos
+## ✏ My Todos
 * Become web designer `@done`
 * Study design and trends `@done`
 * Learn Javascript `@done`
@@ -37,7 +37,7 @@ Currently, I live in Brazil and work at Fintask, a financial startup.
 * Create an open source library
 * Travel to Canada
 
-## Who am I
+## 🚀 Who am I
 <p>If what you are looking for is a very dedicated developer and concerned with consistent data structure, not afraid of refactoring and abstracting code then I'm your guy.</p>
 
 <p>Some frontend developers believe that tests are irrelevant and a waste of time, I assure you, I’m not one of them. I believe in testing my code to scale my project using tools like Jest with TDD approach.</p>
