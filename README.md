@@ -36,3 +36,20 @@ Currently, I live in Brazil and work at Fintask, a financial startup.
 * Learn backend development `@done`
 * Create an open source library
 * Travel to Canada
+
+## Who am I
+<p>If what you are looking for is a very dedicated developer and concerned with consistent data structure, not afraid of refactoring and abstracting code then I'm your guy.</p>
+
+<p>Some frontend developers believe that tests are irrelevant and a waste of time, I assure you, I’m not one of them. I believe in testing my code to scale my project using tools like Jest with TDD approach.</p>
+
+<p>With **5 years of experience** in web development, some of my biggest achievements are:</p>
+<ul>
+   <li>Scaling a startup platform to a valuation increase of 900%;</li>
+   <li>Building a white-label platform from scratch;</li>
+   <li>The solo full stack development of my game Knights RPG using tools like Vue, Node, Web Sockets, HTML5 Canvas and NoSQL database like MongoDB.</li>
+</ul>
+
+<p>As someone who lives and breathes javascript, currently working with **Vue.js**, and some side projects on React.js and Node.js, I wouldn’t be afraid to start a new framework if needed like Nuxt or React Native.</p>
+
+<p>Currently in pursuit to gain more experience as a full stack engineer and continue my knowledge as a front-end developer to eventually become an Engineering Team Leader.</p>
+
