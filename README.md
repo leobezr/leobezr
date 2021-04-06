@@ -24,7 +24,7 @@ Currently, I live in Brazil and work at Fintask, a financial startup.
 </p>
 <p>
    <strong>📝 <a href="http://leobezr.com.br/" target="_blank" rel="nofollow">Portfolio</a></strong><br>
-   You can find some of my latest projects here.
+   You can find some of my latest projects in the link above.
 </p>
 
 ## ✏ My Todos
