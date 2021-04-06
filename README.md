@@ -38,18 +38,14 @@ Currently, I live in Brazil and work at Fintask, a financial startup.
 * Travel to Canada
 
 ## 🚀 Who am I
-<p>If what you are looking for is a very dedicated developer and concerned with consistent data structure, not afraid of refactoring and abstracting code then I'm your guy.</p>
+<p>
+Well, like any other programmer <strong>I LOVE</strong> code, but one of my unique traits is that I love innovating, I don't follow a line just because everyone "thinks" it's the best choice, I try to create my own flow. This doesn't mean that I don't know how to work as a team member and respect certain ideas and cultures, it means that I will try my best to optimize every single task, instead of accepting the bare minimum, I'm a Architect (INTJ-A) type personality, which is about less than 2% of the population, who loves spreading knowledge and guidance for those who need it and are open to it.
+</p>
 
-<p>Some frontend developers believe that tests are irrelevant and a waste of time, I assure you, I’m not one of them. I believe in testing my code to scale my project using tools like Jest with TDD approach.</p>
+<p>With 5 years of experience in web development, fluent in javascript, dedicated and concerned with consistent data structure, not afraid of refactoring and abstracting code using ideas like clean code design.</p>
 
-<p>With <strong>5 years of experience</strong> in web development, some of my biggest achievements are:</p>
-<ul>
-   <li>Scaling a startup platform to a valuation increase of 900%;</li>
-   <li>Building a white-label platform from scratch;</li>
-   <li>The solo full stack development of my game Knights RPG using tools like Vue, Node, Web Sockets, HTML5 Canvas and NoSQL database like MongoDB.</li>
-</ul>
+<p>I believe to be a perfect fit for this opportunity, with 2 years of experience using Vue.js and almost 2 years using React, I can say that I have great mastery using Single Page Applications. Built the entire platform I currently work at, applying atomic design and tests using Jest.js. </p>
 
-<p>As someone who lives and breathes javascript, currently working with <strong>Vue.js</strong>, and some side projects on React.js and Node.js, I wouldn’t be afraid to start a new framework if needed like Nuxt or React Native.</p>
+<p>Built a web browser game working both with frontend and backend, using Node.js and MongoDB.</p>
 
-<p>Currently in pursuit to gain more experience as a full stack engineer and continue my knowledge as a frontend developer to eventually become a Tech Lead.</p>
-
+<p>I have more than 50 websites under my belt, I can say I’m a PRO when it comes to css, html and UI/UX design.</p>
