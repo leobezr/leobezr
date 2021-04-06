@@ -44,8 +44,8 @@ Well, like any other programmer <strong>I LOVE</strong> code, but one of my uniq
 
 <p>With 5 years of experience in web development, fluent in javascript, dedicated and concerned with consistent data structure, not afraid of refactoring and abstracting code using ideas like clean code design.</p>
 
-<p>I believe to be a perfect fit for this opportunity, with 2 years of experience using Vue.js and almost 2 years using React, I can say that I have great mastery using Single Page Applications. Built the entire platform I currently work at, applying atomic design and tests using Jest.js. </p>
+<p>With 2 years of experience using Vue.js and almost 2 years using React, I can say that I have great mastery using Single Page Applications. Built the entire platform I currently work at, applying atomic design and tests using Jest.js. </p>
 
-<p>Built a web browser game working both with frontend and backend, using Node.js and MongoDB.</p>
+<p>Built a web browser game working both with Front-end and Back-end, using Node.js, Vue.js and MongoDB.</p>
 
-<p>I have more than 50 websites under my belt, I can say I’m a PRO when it comes to css, html and UI/UX design.</p>
+<p>I have more than 50 websites under my belt so I believe to be a PRO when it comes to CSS/SASS, HTML5 and UI/UX design.</p>
