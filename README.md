@@ -52,5 +52,5 @@ Well, like any other programmer <strong>I LOVE</strong> code, but one of my uniq
 
 <p>I have more than 50 websites under my belt so I believe to be a PRO when it comes to CSS/SASS, HTML5 and UI/UX design.</p>
 
-### Updates
-* (12/2021) - Just finished my first Python project, a bot using OpenCV for an online game. It's a simple game with complex mechanics. [Here's a linke](https://github.com/leobezr/fishing.io-bot) to the repo;
+## Updates
+* (12/2021) - Just finished my first Python project, a bot using OpenCV for an online game. It's a simple game with complex mechanics. [Here's a link](https://github.com/leobezr/fishing.io-bot) to the repo;
