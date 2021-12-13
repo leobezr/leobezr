@@ -6,7 +6,7 @@
    <strong>👋 Heey!<br />
       I'm Leo Bezerra,</strong>
 </p>
-Currently, I live in Brazil and work at Fintask, a financial startup.
+Currently, I live in Portugal and work at PrimeIT Nearshore.
 
 <h2>🧙 My Development Toolbelt</h2>
 <p><img src="assets/html.svg" width="25" height="25" /> <img src="assets/css-3.svg" width="25" height="25" /> <img
@@ -34,8 +34,10 @@ Currently, I live in Brazil and work at Fintask, a financial startup.
 * Develop using SPA frameworks `@done`
 * Build an online game `@done`
 * Learn backend development `@done`
-* Create an open source library
-* Travel to Canada
+* Learn python `@done`
+* Create e project using python `@done`
+* Master python
+
 
 ## 🚀 Who am I
 <p>
