@@ -27,18 +27,6 @@ Currently, I live in Portugal and work at PrimeIT Nearshore.
    You can find some of my latest projects in the link above.
 </p>
 
-## ✏ My Todos
-* Become web designer `@done`
-* Study design and trends `@done`
-* Learn Javascript `@done`
-* Develop using SPA frameworks `@done`
-* Build an online game `@done`
-* Learn backend development `@done`
-* Learn python `@done`
-* Create e project using python `@done`
-* Master python
-
-
 ## 🚀 Who am I
 <p>
 Well, like any other programmer <strong>I LOVE</strong> code, but one of my unique traits is that I love innovating, I don't follow a line just because everyone "thinks" it's the best choice, I try to create my own flow. This doesn't mean that I don't know how to work as a team member and respect certain ideas and cultures, it means that I will try my best to optimize every single task, instead of accepting the bare minimum, I'm a Architect (INTJ-A) type personality, which is about less than 2% of the population, who loves spreading knowledge and guidance for those who need it and are open to it.
