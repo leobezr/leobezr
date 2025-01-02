@@ -43,8 +43,8 @@ Well, like any other programmer <strong>I LOVE</strong> code, but one of my uniq
 ## Updates
 `(12/2025)` New pixel bot using C++ and OpenCV for Tibia, an online RPG game. (Still under development)
 
-`(12/2024)` New navigation library for TS
+`(12/2024)` New navigation library for TS [checkout](https://github.com/leobezr/navigation)
 
-`(12/2021)` Just finished my first Python project, a bot using OpenCV for an online game. It's a simple game with complex mechanics. [Here's a link](https://github.com/leobezr/fishing.io-bot) to the repo;
+`(12/2021)` Finished my first Python project, a bot using OpenCV for an online game. It's a simple game with complex mechanics. [checkout](https://github.com/leobezr/fishing.io-bot) (deprecated);
 
 `(06/2021)` Just started using Typescript for a project, working at PrimeIT;
