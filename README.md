@@ -41,12 +41,10 @@ Well, like any other programmer <strong>I LOVE</strong> code, but one of my uniq
 <p>I have more than 50 websites under my belt so I believe to be a PRO when it comes to CSS/SASS, HTML5 and UI/UX design.</p>
 
 ## Updates
-`(12/2025)` New pixel bot using C++ for Tibia, an online RPG game. (Still under development)
+`(12/2025)` New pixel bot using C++ and OpenCV for Tibia, an online RPG game. (Still under development)
 
 `(12/2024)` New navigation library for TS
 
-`(06/2021)` Just started using Typescript for a project, working at PrimeIT;
-
-`(11/2021)` The PrimeIT project is nearly done and we should be able to deliver it until `02/2022`, feeling like a master on Typescript already;
-
 `(12/2021)` Just finished my first Python project, a bot using OpenCV for an online game. It's a simple game with complex mechanics. [Here's a link](https://github.com/leobezr/fishing.io-bot) to the repo;
+
+`(06/2021)` Just started using Typescript for a project, working at PrimeIT;
