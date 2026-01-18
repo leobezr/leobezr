@@ -1,10 +1,10 @@
 <img src="./assets/bezrbanner.jpg" />
 
-<h1>LeoBezr</h1>
+<h1>Rzeb</h1>
 
 <p>
    <strong>👋 Heey!<br />
-      I'm Leo Bezerra,</strong>
+      I'm Leo, some know me by Rzeb</strong>
 </p>
 Currently, I live in Portugal and work at PrimeIT Nearshore.
 
@@ -17,34 +17,10 @@ Currently, I live in Portugal and work at PrimeIT Nearshore.
       src="assets/vsc.svg" width="25" height="25" />
 </p>
 
-<h2>👨‍💻 Personal links</h2>
-<p>
-   <strong>⚔ <a href="https://knights-rpg.com.br/#/" target="_blank" rel="nofollow">Knights RPG</a></strong><br>
-   A RPG browser game, developed in NodeJs and VueJS using Canvas and WebSockets.
-</p>
-<p>
-   <strong>📝 <a href="http://leobezr.com.br/" target="_blank" rel="nofollow">Portfolio</a></strong><br>
-   You can find some of my latest projects in the link above.
-</p>
-
 ## 🚀 Who am I
 <p>
-Well, like any other programmer <strong>I LOVE</strong> code, but one of my unique traits is that I love innovating, I don't follow a line just because everyone "thinks" it's the best choice, I try to create my own flow. This doesn't mean that I don't know how to work as a team member and respect certain ideas and cultures, it means that I will try my best to optimize every single task, instead of accepting the bare minimum, I'm a Architect (INTJ-A) type personality, which is about less than 2% of the population, who loves spreading knowledge and guidance for those who need it and are open to it.
+Well, like any other programmer <strong>I LOVE</strong> code, but one of my unique traits is that I love innovating, I don't follow a line just because everyone "thinks" it's the best choice, I try to create my own flow. This doesn't mean that I don't know how to work as a team member and respect certain ideas and cultures, it means that I will try my best to optimize every single task, instead of accepting the bare minimum, I'm an Architect by nature, love spreading knowledge and guidance to those who need it and are open to it.
 </p>
 
-<p>With over 5 years of experience in web development, fluent in Typescript/JS, dedicated and concerned with consistent data structure, not afraid of refactoring and abstracting code using ideas like clean code design.</p>
+<p>10+ years working as a software engineer</p>
 
-<p>With 2 years of experience using Vue.js and almost 2 years using React, I can say that I have great mastery using Single Page Applications. Built the entire platform I currently work at, applying atomic design and tests using Jest.js. </p>
-
-<p>Built a web browser game working both with Front-end and Back-end, using Node.js, Vue.js and MongoDB.</p>
-
-<p>I have more than 50 websites under my belt so I believe to be a PRO when it comes to CSS/SASS, HTML5 and UI/UX design.</p>
-
-## Updates
-`(12/2025)` New pixel bot using C++ and OpenCV for Tibia, an online RPG game. (Still under development)
-
-`(12/2024)` New navigation library for TS [checkout](https://github.com/leobezr/navigation)
-
-`(12/2021)` Finished my first Python project, a bot using OpenCV for an online game. It's a simple game with complex mechanics. [checkout](https://github.com/leobezr/fishing.io-bot) (deprecated);
-
-`(06/2021)` Just started using Typescript for a project, working at PrimeIT;
