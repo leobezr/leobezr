@@ -35,5 +35,5 @@ I enjoy building systems that remove complexity, improve developer productivity,
 
 I've recently made a portfolio project:
 
-1. (Horse Track)[https://github.com/leobezr/horse-racing]
+1. [Horse Track](https://github.com/leobezr/horse-racing)
 
