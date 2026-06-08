@@ -33,3 +33,7 @@ Technologies I regularly work with include:
 
 I enjoy building systems that remove complexity, improve developer productivity, and turn difficult workflows into simple user experiences.
 
+I've recently made a portfolio project:
+
+1. (Horse Track)[https://github.com/leobezr/horse-racing]
+
