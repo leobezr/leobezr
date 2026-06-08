@@ -1,26 +1,35 @@
 <img src="./assets/bezrbanner.jpg" />
 
-<h1>Rzeb</h1>
+<h1>Leonardo Ribeiro</h1>
 
-<p>
-   <strong>👋 Heey!<br />
-      I'm Leo, some know me by Rzeb</strong>
-</p>
-Currently, I live in Portugal and work at PrimeIT Nearshore.
+Software Engineer with 10+ years of programming experience, specializing in web platforms, developer tooling, and product engineering.
 
-<h2>🧙 My Development Toolbelt</h2>
-<p><img src="assets/html.svg" width="25" height="25" /> <img src="assets/css-3.svg" width="25" height="25" /> <img
-      src="assets/javascript.svg" width="25" height="25" /> <img src="assets/vue.svg" width="25" height="25" /> <img
-      src="assets/react.svg" width="25" height="25" /> <img src="assets/sass.svg" width="25" height="25" /> <img
-      src="assets/node.svg" width="25" height="25" /> <img src="assets/mongodb.svg" width="25" height="25" /> <img
-      src="assets/git.svg" width="25" height="25" /> <img src="assets/socket.svg" width="25" height="25" /> <img
-      src="assets/vsc.svg" width="25" height="25" />
-</p>
+My background spans frontend, backend, cloud platforms, automation, and game development. While most of my professional work has focused on modern TypeScript and Vue ecosystems, I enjoy solving broader system design problems: platform architecture, internal developer tools, workflow automation, infrastructure abstractions, and scalable product development.
 
-## 🚀 Who am I
-<p>
-Well, like any other programmer <strong>I LOVE</strong> code, but one of my unique traits is that I love innovating, I don't follow a line just because everyone "thinks" it's the best choice, I try to create my own flow. This doesn't mean that I don't know how to work as a team member and respect certain ideas and cultures, it means that I will try my best to optimize every single task, instead of accepting the bare minimum, I'm an Architect by nature, love spreading knowledge and guidance to those who need it and are open to it.
-</p>
+In recent years I've worked extensively on platform engineering initiatives, helping teams simplify complex infrastructure and operational workflows through self-service tooling, Backstage integrations, scaffolding systems, configuration-driven architectures, and developer experience improvements.
 
-<p>10+ years working as a software engineer</p>
+Outside of work, I build software products end-to-end. Recent projects include:
+
+A roguelike extraction RPG inspired by classic MMORPGs, built as an original IP with custom systems and gameplay mechanics.
+A deterministic horse-racing betting simulator featuring replayable seeded outcomes and simulation-driven gameplay.
+Automation tools, bots, and developer productivity projects created primarily for learning, experimentation, and process optimization.
+
+One of the biggest changes in my workflow over the last few years has been embracing AI-assisted development. Rather than treating AI as a replacement for engineering skills, I use it as a force multiplier to accelerate prototyping, reduce implementation friction, and increase project completion rates. This has allowed me to ship more side projects, iterate faster, and spend more time on architecture, product decisions, and solving difficult technical problems.
+
+Technologies I regularly work with include:
+
+- TypeScript
+- Vue 3
+- Node.js
+- Backstage
+- AWS
+- Docker
+- Storybook
+- Vitest
+- CI/CD & Developer Tooling
+- Platform Engineering
+- Internal Developer Portals
+- Game Development
+
+I enjoy building systems that remove complexity, improve developer productivity, and turn difficult workflows into simple user experiences.
 
