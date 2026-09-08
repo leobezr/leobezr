@@ -1,6 +1,6 @@
 <img src="./assets/bezrbanner.jpg" />
 
-<h1>Leonardo Ribeiro</h1>
+<h1>Leo Bezr</h1>
 
 Software Engineer with 10+ years of programming experience, specializing in web platforms, developer tooling, and product engineering.
 
